@@ -3,4 +3,4 @@
 Detect plagiarized AI generated text or any text from the internet in documents and also evaluate its quality and grade it.
 
 #### Landing page
-![Alt text](/login page.png?raw=true "landing page")
+![](login page.png)
